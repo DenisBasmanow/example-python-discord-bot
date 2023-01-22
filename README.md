@@ -1,6 +1,6 @@
 # Example Python Discord Bot
 
-**For launch:**
+## For launch:
 1. Install Python 3 (https://www.python.org/downloads/).
 2. Download the repository and open the folder with the repository files in the terminal.
 3. (optional) Create Python virtual environment. <br>
